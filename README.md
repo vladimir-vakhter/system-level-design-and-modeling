@@ -13,16 +13,16 @@ During the course, various digital hardware systems were modeled using C++ and S
 
 The detailed information about the projects is contained in the attached reports placed in the corresponding subfolders.
 
-# Acknowledgements
-Prof. Zainalabedin Navabi (navabi@ece.wpi.edu) for teaching the course, formulating the tasks, as well as for the valuable discussions on Methodologies for System Level Design Modeling. The files are published with the permission of Prof. Navabi.
+# Used software
+1. Visual Studio 2019 - IDE [visualstudio.microsoft.com].
+2. draw.io - for drawing diagrams [https://app.diagrams.net/].
+3. WaveDrom - for drawing waveforms [https://wavedrom.com/].
+4. GTKWave - VCD viewer [http://gtkwave.sourceforge.net/].
 
 # Dependencies
 For the projects 4-6, SystemC-2.3.3 (includes TLM) C++ library was used [https://www.accellera.org/downloads/standards/systemc].</br>
 The corresponding subfolders contain the file named 'Microsoft.Cpp.Win32.user.props'. This file contains the data about dependencies.</br>
 This propert sheet may be exported into Visual Studio 2019 through the built-in Property Manager.
 
-# Used software
-1. Visual Studio 2019 - IDE [visualstudio.microsoft.com].
-2. draw.io - for drawing diagrams [https://app.diagrams.net/].
-3. WaveDrom - for drawing waveforms [https://wavedrom.com/].
-4. GTKWave - VCD viewer [http://gtkwave.sourceforge.net/].
+# Acknowledgements
+Prof. Zainalabedin Navabi (navabi@ece.wpi.edu) for teaching the course, formulating the tasks, as well as for the valuable discussions on Methodologies for System Level Design Modeling. The files are published with the permission of Prof. Navabi.
