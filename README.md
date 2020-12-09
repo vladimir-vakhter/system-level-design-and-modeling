@@ -15,3 +15,8 @@ The detailed information about the projects is contained in the attached reports
 
 # Acknowledgements
 Prof. Zainalabedin Navabi (navabi@ece.wpi.edu) for teaching the course, formulating the tasks, as well as for the valuable discussions on Methodologies for System Level Design Modeling. The files are published with the permission of Prof. Navabi.
+
+# Used software
+1. draw.io - for drawing diagrams [https://app.diagrams.net/].
+2. WaveDrom - for drawing waveforms [https://wavedrom.com/].
+3. GTKWave - VCD viewer [http://gtkwave.sourceforge.net/].
